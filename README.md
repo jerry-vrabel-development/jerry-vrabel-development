@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Jerry Vrabel
+## Jerry Vrabel
 
 Developer in Chicago. I build software that helps people follow through on what they set out to do, using positive reinforcement instead of guilt.
 
@@ -22,7 +20,7 @@ Reward-based dog-training plans built with the Claude API, with a safety check e
 
 ## How I work
 
-I pair-program with Claude: it drafts code and tests; I review, test, push and merge every change, and when I find an error we fix it together.
+I build with an AI pair programmer. Claude drafts code and tests. I set the direction, review every line, and own what ships. Every change goes through a pull request, CI (lint, strict types, unit, browser and accessibility tests) and review before it merges.
 
 ## Contact
 
